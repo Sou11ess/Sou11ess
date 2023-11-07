@@ -1,4 +1,4 @@
-Ola miamigos, I am Soulless/ Doullahan. you can call me Doully
+Ola mi amigos, I am Soulless/ Doullahan. you can call me Doully
 
 I am learning c# coz i want to and dont expect any frequent commits coz i dont want to
 
