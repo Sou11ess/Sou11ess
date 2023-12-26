@@ -1,6 +1,7 @@
 Ola mi amigos, I am Soulless/ Doullahan. you can call me Doully
 
-I am learning c# coz i want to and dont expect any frequent commits coz i dont want to
+I am learning c# coz i want to and dont expect any frequent commits coz i dont want to 
+**EDIT** Want to learn Java too but dont know how committed i will be
 
 working on learning c# alongside doing school, attempting to get into rock climbing and whitewater kayaking (very early dont expect much), doing music projects and i do sound/light tech and performing arts coordination at my school
 
